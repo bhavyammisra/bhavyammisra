@@ -2,9 +2,8 @@
 <h3 align="center">Computer Engineering @ Thapar Institute of Engineering & Technology · Aspiring SDE</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/bhavyammisra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/bhavyammisra/leetcode-solutions"><img src="https://img.shields.io/badge/LeetCode_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -49,22 +48,23 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Road-Report](https://github.com/YOUR-USERNAME/road-report)** | Lets citizens report road issues so they can be tracked and resolved | Full-stack · Supabase · Vercel |
-| **[Orphan Adoption & Donation Management System](https://github.com/YOUR-USERNAME/orphan-adoption)** | Manages adoption requests and donations for orphanages in one place | Full-stack · PostgreSQL |
-| **[Multilingual Research Insight System](https://github.com/YOUR-USERNAME/multilingual-research-insight)** | Pulls key insights out of research content across multiple languages | Python |
-| **[SAKSHAM](https://github.com/YOUR-USERNAME/saksham)** | Gamified web app teaching children (8–16) their legal rights through an explorable town, branching stories and quizzes · *Smart India Hackathon 2026* | React · TypeScript · Vite · Tailwind · Zustand |
-| **[Khairiyat](https://github.com/GunagyeJain)** | NFC-tap medication-adherence app that keeps families living apart in the loop · *Cosmicathon 2026* | App + NFC |
+| **[CivicReport (Road-Report)](https://github.com/bhavyammisra/Road-Report)** | Citizens report civic issues (potholes, garbage, broken streetlights) with photos and GPS, and track resolution in real time on an interactive map | React · TypeScript · Supabase |
+| **[Orphan Adoption Management System](https://github.com/bhavyammisra/orphan-adoption-system)** | Connects orphanages, admins and adopters on one platform for child records and adoption requests · *DBMS course project* | PostgreSQL · Supabase |
+| **[SAKSHAM](https://github.com/bhavyammisra/saksham)** | Web game teaching children (8–16) their legal rights: walk a town, help solve a problem, earn rights cards and take quizzes · *Smart India Hackathon 2026* | React · TypeScript · Vite · Tailwind |
+| **[Khairiyat](https://github.com/bhavyammisra/khairiyat)** | NFC-tap medication-adherence app that keeps families living apart in the loop · *Cosmicathon 2026* | App · NFC |
+| **[BIOS Transaction Authentication](https://github.com/bhavyammisra/BIOS-Transaction-Authentication)** | Real-time risk API that uses behaviour, device and transaction signals to allow, challenge or block an online payment · *BIOS Hackathon* | Cloud API |
+| **[LeetCode Solutions](https://github.com/bhavyammisra/leetcode-solutions)** | 150+ DSA problems solved in C++, organised by topic | C++ |
 
 ---
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhavyammisra&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyammisra&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=bhavyammisra&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
