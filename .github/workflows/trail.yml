@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/trail-dark.svg?color_snake=#C2A065&color_dots=#321E17,#4A2F25,#6E4A35,#9C7A52,#C2A065&color_dot_border=#2A1813&color_background=#2A1813
-            dist/trail-light.svg?color_snake=#C9A45C&color_dots=#EFE2C8,#D9C29A,#B08A55,#6B4C2C,#2A1B12
+            dist/trail-dark.svg?color_snake=#C9A45C&color_dots=#360B15,#5A1D2A,#7E3340,#A8705A,#E8C987&color_dot_border=#2B0810&color_background=#2B0810
+            dist/trail-light.svg?color_snake=#C9A45C&color_dots=#F3E9DC,#E3C9B8,#C98F86,#7A2333,#2B0810
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

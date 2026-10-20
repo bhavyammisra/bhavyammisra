@@ -14,7 +14,7 @@ These days I'm deep in AI agents and code search. I write my algorithms in C++ a
 <br />
 
 <a href="https://github.com/bhavyammisra/cartograph">
-  <img src="./assets/cartograph.svg" width="100%" alt="Cartograph: ask a JavaScript codebase a question in plain English. The agent finds the right function on the first try 53% of the time, against 28% for a grep-only agent." />
+  <img src="./assets/cartograph.svg" width="100%" alt="Cartograph: ask a JavaScript codebase a question in plain English. Ask a JavaScript codebase anything in plain English; an AI agent searches a live map of the code and points to the exact files and lines. It finds the right function on the first try 53% of the time, against 28% for a grep-only agent." />
 </a>
 
 <table>
@@ -32,12 +32,12 @@ These days I'm deep in AI agents and code search. I write my algorithms in C++ a
 
 ### Field notes
 
-- 🧭 Built an AI code-search agent that runs on a **4 GB laptop GPU** and finds the right function almost **2× as often** as a grep-based agent using the same model
-- ✈️ Leading team **Caffeinated Nerds** at the **Thapar Japan Hackathon 2026** on Japan Airlines' in-flight dining track. Our idea, **ThaliBento**, turns a passenger's diet into ingredient rules that follow them through every rebooking, right down to a QR label on their meal tray
-- 🛡️ Now building **[Pramaan](https://github.com/bhavyammisra/BIOS-Transaction-Authentication)** for the BIOS Hackathon: a real-time risk engine that reads device, behaviour and payment signals to stop the scams an OTP can't
-- 🏆 Shipped projects at **Smart India Hackathon 2026** (Saksham) and **Cosmicathon 2026** (Khairiyat)
-- ⚔️ **150+** DSA problems solved in C++
-- 📬 Open to **SDE internships** for summer 2027
+- Built Cartograph, an AI code-search agent that finds the right function on the first try 53% of the time, against 28% for a grep-based agent, on a 4 GB laptop GPU
+- Team lead at Thapar Japan Hackathon 2026 (Japan Airlines track) with ThaliBento, a system that keeps passengers' dietary needs intact through rebookings
+- Building Pramaan, a real-time payment risk engine, for the BIOS Hackathon
+- Built projects for Smart India Hackathon 2026 and Cosmicathon 2026
+- Solved 150+ DSA problems in C++
+- Seeking SDE internships for summer 2027
 
 ### Contribution trail
 
@@ -47,7 +47,7 @@ These days I'm deep in AI agents and code search. I write my algorithms in C++ a
 </picture>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=bhavyammisra&background=2A1813&border=2A1813&stroke=4A2F25&ring=C2A065&fire=C2A065&currStreakNum=F2EBDD&sideNums=F2EBDD&currStreakLabel=C2A065&sideLabels=C9B9A2&dates=C9B9A2&border_radius=16" width="100%" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=bhavyammisra&background=2B0810&border=2B0810&stroke=5A1D2A&ring=C9A45C&fire=C9A45C&currStreakNum=F3E9DC&sideNums=F3E9DC&currStreakLabel=C9A45C&sideLabels=CDB3A4&dates=CDB3A4&border_radius=16" width="100%" alt="GitHub contribution streak" />
 </p>
 
-<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by. Let's build something." />
+<img src="./assets/footer.svg" width="100%" alt="Thanks for dropping a pin here. Let's build something." />
