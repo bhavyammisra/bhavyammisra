@@ -3,7 +3,7 @@
 </a>
 
 <p>
-  <a href="https://bhavyammisra.vercel.app"><img src="./assets/btn-website.svg" height="44" alt="Website: bhavyammisra.vercel.app" /></a>
+  <a href="https://bhavyammisra.vercel.app"><img src="./assets/btn-website.svg" height="44" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/bhavyammisra"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
 </p>
 
@@ -28,9 +28,7 @@ These days I'm deep in AI agents and code search. I write my algorithms in C++ a
   </tr>
 </table>
 
-<p align="center"><i>Road-Report is live: <a href="https://road-reporter-mu.vercel.app">road-reporter-mu.vercel.app</a></i></p>
-
-<img src="./assets/legend.svg" width="100%" alt="Languages: C++, C, Python, TypeScript, JavaScript, SQL. Building with: React, React Native, Vite, Tailwind, Supabase, PostgreSQL, Vercel. Machine learning: NumPy, Pandas, Matplotlib, scikit-learn. Exploring: AI agents, code search, embeddings, local LLMs." />
+<img src="./assets/legend.svg" width="100%" alt="Languages: C++, C, Python, TypeScript, JavaScript, SQL. Computer science: data structures, algorithms, OOP, DBMS, operating systems, computer networks, software engineering, image processing. Building with: React, React Native, Vite, Tailwind, Supabase, PostgreSQL, Vercel. Machine learning: NumPy, Pandas, Matplotlib, scikit-learn. Exploring: AI agents, code search, embeddings, local LLMs." />
 
 ### Field notes
 
