@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/trail-dark.svg?color_snake=#C9A45C&color_dots=#25180F,#3A281B,#5A4129,#8C6B3F,#C9A45C&color_dot_border=#1C120B&color_background=#1C120B
+            dist/trail-dark.svg?color_snake=#C2A065&color_dots=#321E17,#4A2F25,#6E4A35,#9C7A52,#C2A065&color_dot_border=#2A1813&color_background=#2A1813
             dist/trail-light.svg?color_snake=#C9A45C&color_dots=#EFE2C8,#D9C29A,#B08A55,#6B4C2C,#2A1B12
       - uses: crazy-max/ghaction-github-pages@v4
         with:
