@@ -1,72 +1,49 @@
-<h1 align="center">Hi, I'm Bhavyam Misra 👋</h1>
-<h3 align="center">Computer Engineering @ Thapar Institute of Engineering & Technology · Aspiring SDE</h3>
+<a href="https://github.com/bhavyammisra">
+  <img src="./assets/hero.svg" width="100%" alt="Bhavyam Misra. I build maps for messy systems: codebases, city roads, and children's rights." />
+</a>
 
-<p align="center">
-  <a href="https://github.com/bhavyammisra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/bhavyammisra/leetcode-solutions"><img src="https://img.shields.io/badge/LeetCode_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+<br />
 
----
+I'm a Computer Engineering student at Thapar Institute in Patiala. I like taking something tangled, like a huge codebase, a city full of potholes or the law as it applies to a 10-year-old, and building the tool that helps people find their way around it.
 
-### 🧑‍💻 About me
+These days I'm deep in AI agents and code search. I write my algorithms in C++ and ship web apps in TypeScript, and I go looking for hackathons with hard problem statements.
 
-- 🎓 B.E. Computer Engineering at **TIET, Patiala** (2024 – 2028) · CGPA **8.55**
-- 🧩 Solved **150+ DSA problems** — I enjoy turning messy problems into clean, efficient code
-- 🌐 Build full-stack web apps with **Supabase, PostgreSQL and Vercel**
-- 🏆 Regular hackathon participant — Smart India Hackathon 2026 (team *Parallax*), Cosmicathon 2026
-- 🎯 Currently looking for **Software Development Engineer internships**
+<br />
 
----
+<a href="https://github.com/bhavyammisra/cartograph">
+  <img src="./assets/cartograph.svg" width="100%" alt="Cartograph: ask a JavaScript codebase a question in plain English. The agent finds the right function on the first try 53% of the time, against 28% for a grep-only agent." />
+</a>
 
-### 🛠️ Tech stack
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/bhavyammisra/saksham"><img src="./assets/card-saksham.svg" width="100%" alt="Saksham: a web game that teaches kids aged 8 to 16 their legal rights" /></a></td>
+    <td width="50%"><a href="https://github.com/bhavyammisra/Road-Report"><img src="./assets/card-road-report.svg" width="100%" alt="Road-Report: report civic issues with a photo and GPS and track the fix on a live map" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/bhavyammisra/khairiyat"><img src="./assets/card-khairiyat.svg" width="100%" alt="Khairiyat: NFC-tap medication check-ins for families living apart" /></a></td>
+    <td width="50%"><a href="https://github.com/bhavyammisra/BIOS-Transaction-Authentication"><img src="./assets/card-bios.svg" width="100%" alt="Pramaan: a real-time risk engine that stops scam payments" /></a></td>
+  </tr>
+</table>
 
-**Languages**
+<img src="./assets/legend.svg" width="100%" alt="Languages: C++, C, Python, TypeScript, JavaScript, SQL. Building with: React, Vite, Tailwind, Supabase, PostgreSQL, Vercel. Exploring: AI agents, code search, embeddings, local LLMs, GitHub Actions." />
+
+### Field notes
+
+- 🧭 Built an AI code-search agent that runs on a **4 GB laptop GPU** and finds the right function almost **2× as often** as a grep-based agent using the same model
+- 🏆 Took real projects to **Smart India Hackathon 2026**, **Cosmicathon 2026** and the **BIOS Hackathon**, and took on a Paytm Payments Bank case at **INVESTI-CASE '26**, IIT Jammu
+- ⚔️ **150+** problems solved in C++, all in [leetcode-solutions](https://github.com/bhavyammisra/leetcode-solutions), organised by topic
+- 🗄️ Helped build the PostgreSQL + Supabase backend of an [orphan adoption management system](https://github.com/bhavyammisra/orphan-adoption-system)
+- 📬 Open to **SDE internships** for summer 2027
+
+### Contribution trail
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavyammisra/bhavyammisra/output/trail-dark.svg" />
+  <img src="https://raw.githubusercontent.com/bhavyammisra/bhavyammisra/output/trail-light.svg" width="100%" alt="A snake eating my GitHub contribution graph" />
+</picture>
+
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://streak-stats.demolab.com/?user=bhavyammisra&background=0E2A3B&border=0E2A3B&stroke=1E4A5B&ring=F4C95D&fire=E5446D&currStreakNum=EAF2F0&sideNums=EAF2F0&currStreakLabel=F4C95D&sideLabels=9CC3C9&dates=9CC3C9&border_radius=16" width="100%" alt="GitHub contribution streak" />
 </p>
 
-**Frameworks & Tools**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
-
----
-
-### 🚀 Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[CivicReport (Road-Report)](https://github.com/bhavyammisra/Road-Report)** | Citizens report civic issues (potholes, garbage, broken streetlights) with photos and GPS, and track resolution in real time on an interactive map | React · TypeScript · Supabase |
-| **[Orphan Adoption Management System](https://github.com/bhavyammisra/orphan-adoption-system)** | Connects orphanages, admins and adopters on one platform for child records and adoption requests · *DBMS course project* | PostgreSQL · Supabase |
-| **[SAKSHAM](https://github.com/bhavyammisra/saksham)** | Web game teaching children (8–16) their legal rights: walk a town, help solve a problem, earn rights cards and take quizzes · *Smart India Hackathon 2026* | React · TypeScript · Vite · Tailwind |
-| **[Khairiyat](https://github.com/bhavyammisra/khairiyat)** | NFC-tap medication-adherence app that keeps families living apart in the loop · *Cosmicathon 2026* | App · NFC |
-| **[BIOS Transaction Authentication](https://github.com/bhavyammisra/BIOS-Transaction-Authentication)** | Real-time risk API that uses behaviour, device and transaction signals to allow, challenge or block an online payment · *BIOS Hackathon* | Cloud API |
-| **[LeetCode Solutions](https://github.com/bhavyammisra/leetcode-solutions)** | 150+ DSA problems solved in C++, organised by topic | C++ |
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhavyammisra&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyammisra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bhavyammisra&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center"><i>Always building, always learning — feel free to reach out! ✨</i></p>
+<img src="./assets/footer.svg" width="100%" alt="Thanks for dropping a pin here. Let's build something." />
