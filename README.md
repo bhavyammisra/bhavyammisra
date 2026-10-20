@@ -1,5 +1,5 @@
 <a href="https://github.com/bhavyammisra">
-  <img src="./assets/hero.svg" width="100%" alt="Bhavyam Misra. I build maps for messy systems: codebases, city roads, and children's rights." />
+  <img src="./assets/hero.svg" width="100%" alt="Bhavyam Misra. I build software that holds up in the real world." />
 </a>
 
 <p>
