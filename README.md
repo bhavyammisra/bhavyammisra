@@ -43,7 +43,7 @@ These days I'm deep in AI agents and code search. I write my algorithms in C++ a
 </picture>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=bhavyammisra&background=0E2A3B&border=0E2A3B&stroke=1E4A5B&ring=F4C95D&fire=E5446D&currStreakNum=EAF2F0&sideNums=EAF2F0&currStreakLabel=F4C95D&sideLabels=9CC3C9&dates=9CC3C9&border_radius=16" width="100%" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=bhavyammisra&background=3B0D16&border=3B0D16&stroke=6E2A36&ring=C9A45C&fire=E8C987&currStreakNum=F3E9DC&sideNums=F3E9DC&currStreakLabel=C9A45C&sideLabels=CDB3A4&dates=CDB3A4&border_radius=16" width="100%" alt="GitHub contribution streak" />
 </p>
 
 <img src="./assets/footer.svg" width="100%" alt="Thanks for dropping a pin here. Let's build something." />
