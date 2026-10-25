@@ -19,8 +19,8 @@ text{font-family:'Bric','Segoe UI',system-ui,sans-serif}
 <text class="d" x="74" y="70" font-size="30" fill="#F3E9DC">Saksham</text>
 <text x="42" y="120" font-size="18" fill="#CDB3A4">Most children never learn the laws written</text><text x="42" y="148" font-size="18" fill="#CDB3A4">to protect them. Saksham turns those rights</text><text x="42" y="176" font-size="18" fill="#CDB3A4">into a town they can walk through, where</text><text x="42" y="204" font-size="18" fill="#CDB3A4">every building hides a story worth winning.</text>
 
-<text x="42" y="262" font-size="15" font-weight="600" fill="#C9A45C">Smart India Hackathon 2026</text>
-<text x="538" y="262" text-anchor="end" font-size="15" fill="#CDB3A4">React, TypeScript, Vite</text>
+<text x="42" y="262" font-size="15" font-weight="600" fill="#C9A45C">Started at SIH 2026, still building</text>
+<text x="538" y="262" text-anchor="end" font-size="15" fill="#CDB3A4">React, TypeScript, Supabase</text>
 
 </g>
 </svg>
